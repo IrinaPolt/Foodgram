@@ -134,3 +134,4 @@ dmypy.json
 frontend/node_modules/
 backend/media/
 backend/static/
+migrations/
